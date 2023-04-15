@@ -17,9 +17,9 @@ Installing pip
 
 Installing Flask and requests
 - To install the Flask and requests libraries, open a command prompt or terminal window and type the following commands:
-  - Copy code
   - pip install Flask
   - pip install requests
+  - You can also try typing pip3 install "package-name" if pip does not work
 
 Usage
 To use the web application, follow these steps:
