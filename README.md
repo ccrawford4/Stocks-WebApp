@@ -25,7 +25,7 @@ Usage
 To use the web application, follow these steps:
 - Clone or download the project from the GitHub repository.
 - Open a command prompt or terminal window and navigate to the project directory.
-- Type the following command and press Enter: python app.py
+- Type the following command and press Enter: python (or python3 for MacOS) flask_stocks.py
 - Wait for the Flask server to start.
 - Open a web browser and navigate to http://localhost:5000/
 - Enter a valid stock symbol in the search box and click the "Search" button.
